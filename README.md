@@ -1,4 +1,4 @@
-# OneGraph
+# OneGraph: A Cross-Architecture Framework for Large-scale Graph Computing on GPUs based on oneAPI.
 OneGrpah is a framework for large-scale Graph Computing based on oneAPI. It can process out-of-memory graph data with GPU. 
 It significantly reduces the data transfer between GPU and CPU and masks the latency by asynchronous transfer.
 
